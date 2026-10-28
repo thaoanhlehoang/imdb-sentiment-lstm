@@ -1,0 +1,4 @@
+Model,Accuracy,Precision,Recall,F1,Train time (s)
+TF-IDF + Logistic Regression,0.8834,0.8816,0.8857,0.8836,0.6999
+TF-IDF + Linear SVM,0.8756,0.8851,0.8634,0.8741,0.3467
+LSTM,0.8563,0.8521,0.8622,0.8571,23.9131
